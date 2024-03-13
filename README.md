@@ -24,7 +24,7 @@ git checkout -- first.txt
 ```
 12. Убрать изменения относительно последнего коммита из файла.
 ```
-`git restore first.txt
+git restore first.txt
 ```
 13. Просмотреть существующие ветки.
 
