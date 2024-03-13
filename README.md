@@ -52,7 +52,7 @@ git branch first_branch
 
 24. Удалить ветку.
 ```
-git branch -d newbranch
+git branch -d second_branch
 ```
 25. Пропустить текущий конфликтный коммит и перейти к следующему.
 
