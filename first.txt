@@ -1,4 +1,4 @@
-Первы абзац 
+
 first_paragraph 
 second_paragraph 
 third_paragraph 
