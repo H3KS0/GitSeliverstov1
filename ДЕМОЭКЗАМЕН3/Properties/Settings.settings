@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ДЕМОЭКЗАМЕН3.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">loginDEvtg2018</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ETMNzL</Value>
+    </Setting>
+    <Setting Name="connString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=Demo_Seliverstov;Data Source=DESKTOP-ALHNBP8\SQLEXPRESS</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
